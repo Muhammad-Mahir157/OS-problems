@@ -1,0 +1,13 @@
+       ls - list directory contents
+       ls [OPTION]... [FILE]...
+       -f     do not sort, enable -aU, disable -ls --color
+              and per directory totals
+              'ls' and output is a terminal)
+              atime  or  access  or  use  (-u); ctime or status (-c); also use
+       only outside the POSIX locale.  Also the TIME_STYLE  environment  vari‐
+       with --color=never.  With --color=auto, ls emits color codes only  when
+       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+       Report ls translation bugs to <https://translationproject.org/team/>
+       Full documentation at: <https://www.gnu.org/software/coreutils/ls>
+       or available locally via: info '(coreutils) ls invocation'
+GNU coreutils 8.30              September 2019                           LS(1)
